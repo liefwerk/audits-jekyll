@@ -52,8 +52,6 @@ Ordonner les challenges par ordre d'importance.
 
 ![PageSpeedInsight Mobile](/images/psi_mobile_time.JPG)
 
-.
-
 ### Bureau
 
 ![PageSpeedInsight Bureau](/images/psi_bureau.JPG)
