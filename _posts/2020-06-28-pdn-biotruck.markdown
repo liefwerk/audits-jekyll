@@ -7,7 +7,11 @@ categories: jekyll update
 
 ## Résumé de l'activité
 
-L'activité de GMLB/Bio-truck est de livrer à domicile des fruits et légumes de saisons et locaux.
+L'activité de GMLB est de faire les marchés locaux et de livrer à domicile des fruits et légumes de saisons et locaux.
+Bio-truck se concentrera principalement sur la livraison à domicile.
+
+Partage des zones géographiques entre les deux plateformes.
+Structure identique mais différence visuelle.
 
 ### Objectifs de la nouvelle plateforme
 
@@ -28,9 +32,12 @@ Ordonner les challenges par ordre d'importance.
   - Chercher si possibilité d'ajouter via un fichier (Excel ou JSON)
   - [Importer/exporter via CSV](https://docs.woocommerce.com/document/product-csv-importer-exporter/)
   - Enseigner comment ajouter produits facilement
+  - Mise en ligne des images avec descriptions (outil ?)
 - Fonctionnalités à ajouter
   - Empêcher les commandes de moins de 20€
   - Spécifier le minimum de commande dans le panier
+  - Vérifier si on peut faire des groupes de produits pour créer les paniers
+- Cloner le ftp
 
 ## whatweb - Analyse des technologies utilisées par le site internet
 
